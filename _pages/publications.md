@@ -6,7 +6,7 @@ description:
 years: [2014]
 nav: true
 ---
-
+<!---  
 <div class="publications">
 
 {% for y in page.years %}
@@ -15,3 +15,4 @@ nav: true
 {% endfor %}
 
 </div>
+--->
