@@ -26,7 +26,7 @@ while [[ $# > 0 ]]; do
         SRC_BRANCH="$2"
         shift
         ;;
-        -d|--deploy)
+        -d|--deploy.sh)
         DEPLOY_BRANCH="$2"
         shift
         ;;
