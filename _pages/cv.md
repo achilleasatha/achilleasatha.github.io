@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_AchilleasAthanasiouFragkoulis.pdf
+permalink: https://achilleasatha.github.io/assets/pdf/CV_AchilleasAthanasiouFragkoulis.pdf
 title: cv
 nav: true
 nav_order: 5

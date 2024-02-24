@@ -14,10 +14,11 @@ profile:
 #    <p>Your City, State 12345</p>
 
 #news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 ## Machine Learning Engineer
 
 Hi there 👋
@@ -35,7 +36,8 @@ has been on cancellations predictions and how to best optimise occupancy and pri
 
 ### Professional Experience
 I have professional experience in experimentation (Frequentist & Bayesian), in multivariate (A/B/n) testing and
-Multi-Armed Bandit experiments, with a strong focus on testing of ML solutions to understand and measure user-facing impact.
+Multi-Armed Bandit experiments, with a strong focus on testing of ML solutions to understand and measure user-facing
+impact.
 
 I’ve been involved in developing and productionizing a large-scale experimentation platform on the cloud (twice!).
 
