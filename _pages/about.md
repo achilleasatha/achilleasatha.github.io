@@ -26,15 +26,18 @@ I’m an MLE working at FLYR Hospitality. Trying to solve some of the tough chal
 forecasting in the hospitality industry.
 
 ### I’m passionate about:
+
 - ML Engineering & ML Ops ☁️🚀
 - Data engineering 🛠️
 - Experimentation 🔬
 
 ### What I’m working on at the moment
+
 Currently, I am working on demand and supply forecasting models for the hospitality industry. A large part of my focus
 has been on cancellations predictions and how to best optimise occupancy and pricing to counter-balance their impact.
 
 ### Professional Experience
+
 I have professional experience in experimentation (Frequentist & Bayesian), in multivariate (A/B/n) testing and
 Multi-Armed Bandit experiments, with a strong focus on testing of ML solutions to understand and measure user-facing
 impact.
@@ -45,6 +48,7 @@ I've worked on domain-specific applications of computer vision for object detect
 building reinforcement learning agents to automate repetitive human tasks in IT.
 
 ### Volunteering
+
 Additionally, I’ve been involved in pro-bono projects with UCL’s Analytics for Social Impact Society and UCL's
 Consulting Society making analytics & data-science more accessible to charities and helping some early stage ventures.
 
@@ -54,9 +58,11 @@ Another project involved deploying a cloud-based service to allow a charity to q
 text documents.
 
 ### Teaching & Mentoring
+
 I delivered the Data Analytics for Managers course at Product School for the 2019 cohort in London.
 
 ### Background
+
 I have a background in Experimental High Energy Particle Physics, having spent some time doing research with groups
 affiliated with DESY & CERN.
 
