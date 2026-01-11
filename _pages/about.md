@@ -18,55 +18,48 @@ latest_posts: false # includes a list of the newest posts
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## Staff ML Platform Engineer
 
-## Machine Learning Engineer
+I’m a Staff ML Platform Engineer based in the UK, currently at **Satalia (WPP)**, where I work on building scalable, production-grade platforms for **agentic and GenAI workflows**.
 
-Hi there 👋
-I’m an MLE working at FLYR Hospitality. Trying to solve some of the tough challenges around demand and supply
-forecasting in the hospitality industry.
+My work sits at the intersection of **machine learning, distributed systems, and cloud infrastructure**, with a strong focus on enabling teams to ship ML and GenAI systems safely, reliably, and at scale.
 
-### I’m passionate about:
+### I’m passionate about
 
-- ML Engineering & ML Ops ☁️🚀
-- Data engineering 🛠️
-- Experimentation 🔬
+- ML platforms, MLOps & developer enablement ☁️  
+- GenAI systems: agents, RAG, evaluation & governance  
+- Cloud-native infrastructure (Kubernetes, IaC, service meshes)  
+- Experimentation, observability & reliability in ML systems  
 
 ### What I’m working on at the moment
 
-Currently, I am working on demand and supply forecasting models for the hospitality industry. A large part of my focus
-has been on cancellations predictions and how to best optimise occupancy and pricing to counter-balance their impact.
+I’m leading infrastructure and platform efforts across multiple teams to deliver a **self-serve ML & GenAI Platform as a Service**, supporting large-scale investment in agentic workflows.
 
-### Professional Experience
+This includes:
+- Kubernetes-based platforms (serverless with Knative, Istio service mesh)
+- CI/CD, templates, and reusable internal libraries
+- LLM observability, monitoring and governance (Langfuse, LiteLLM, safety tooling)
+- Production GenAI workloads (LLMs, multimodal, RAG) running on GPUs
 
-I have professional experience in experimentation (Frequentist & Bayesian), in multivariate (A/B/n) testing and
-Multi-Armed Bandit experiments, with a strong focus on testing of ML solutions to understand and measure user-facing
-impact.
+### Professional experience
 
-I’ve been involved in developing and productionizing a large-scale experimentation platform on the cloud (twice!).
+I have hands-on experience designing, building, and operating **end-to-end ML and GenAI systems in production**, from experimentation and modeling through to deployment, monitoring, and governance.
 
-I've worked on domain-specific applications of computer vision for object detection & recognition and
-building reinforcement learning agents to automate repetitive human tasks in IT.
+Previously, I’ve:
+- Led development of large-scale experimentation platforms (A/B/n, switchbacks, bandits)
+- Owned ML systems serving **thousands of users and customers**
+- Built forecasting, cancellations, and time-series models in hospitality and travel
+- Worked on computer vision systems and applied reinforcement learning
+- Acted as technical lead and mentor across ML, MLOps, and platform teams
 
-### Volunteering
+My career spans industries including **advertising, hospitality, ride-hailing, travel, and large-scale consumer platforms**.
 
-Additionally, I’ve been involved in pro-bono projects with UCL’s Analytics for Social Impact Society and UCL's
-Consulting Society making analytics & data-science more accessible to charities and helping some early stage ventures.
+### Teaching & mentoring
 
-One project involved market sizing through survival analysis for an aviation-related scale-up.
-
-Another project involved deploying a cloud-based service to allow a charity to quickly summarize and classify
-text documents.
-
-### Teaching & Mentoring
-
-I delivered the Data Analytics for Managers course at Product School for the 2019 cohort in London.
+I regularly mentor engineers and data scientists on ML systems, MLOps best practices, and platform design. Earlier in my career, I delivered the *Data Analytics for Managers* course at Product School in London.
 
 ### Background
 
-I have a background in Experimental High Energy Particle Physics, having spent some time doing research with groups
-affiliated with DESY & CERN.
+I started out in **Experimental Particle Physics**, working with research groups affiliated with **CERN and DESY**, before transitioning into industry ML and platform engineering.
 
-My professional experience has spanned many industries, from logistics, to travel & hospitality and software management.
-
-I spend most of my free time chasing wind and waves 🏄 with my self-converted campervan 🚐, cross-training 🏋️ and doing
-some lightweight amateur triathlon racing 🏊🚴🏃.
+Outside of work, I spend most of my time chasing wind and waves 🏄, training 🏋️, and racing the occasional amateur triathlon 🏊🚴🏃
