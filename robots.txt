@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://achilleasatha.github.io/sitemap.xml
+Sitemap: https://achilleas-athanasiou-fragkoulis.is-a.dev/sitemap.xml
